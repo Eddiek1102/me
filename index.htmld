@@ -47,8 +47,8 @@
 				<section id="banner">
 					<div class="content">
 						<header>
-							<h2>Eddie.</h2>
-							<p>Hey. Thanks for stopping by.<br />
+							<h2>eddie.</h2>
+							<p>hey. thanks for stopping by.<br />
 							
 						</header>
 						<span class="image"><img src="blank-profile-picture-coming-soon.png" alt="" /></span>
@@ -69,9 +69,7 @@
 									</header>
 								</div>
 								<div class="col-4 col-12-medium">
-									<p>I am currently pursuing a bachelor's degree in electrical engineering with a focus on signal processing and a minor in computer science at Georgia Tech. 
-										I am looking to work in software development or break into quantitative finance post-graduation. 
-									</p>
+									<p>I am currently pursuing a bachelor's degree in electrical engineering with a focus on signal processing and a minor in computer science at Georgia Tech. </p>
 								</div>
 								<div class="col-4 col-12-medium">
 									<p>I spent most of my elementary and early middle school years in Irvine, California before moving to Johns Creek, Georgia in 2016. I graduated from Northview High school in 2021.</p>
@@ -146,10 +144,8 @@
 						</section>
 						<div class="box alt">
 						<section>
-							<li>At present, I am in the process of obtaining a security clearance for an electrical engineering internship at the Multifunction Sensors divisio at Northrop Grumman. My internship will last from whenever my security clearance is approved to the end of the Fall 2023 semester.	</li>
-							<li>In the meantime, I will continue to improve my programming skills in order to develope the skills necessary for future internships and jobs.</li>
-							<li>Next semester, I will be taking courses in software design, circuit analysis, and computer programming amongst other subjects.</li>
-							<li>After completing my bachelor's degree in electrical engineering, I hope to earn a graduate degree in quantitative and computational finance through the 5-year BS/MS program at Georgia Tech.</li>
+							<li>At present, I am an electrical engineering intern at Northrop Grumman.	</li>
+							<li>After the internship, I will return to Georgia Tech to start my third year in university. </.li>
 							
 						</section>
 							</div>
